@@ -81,7 +81,7 @@ const Intro = () => {
                 <Text>
                     <h1>Salut,</h1>
                     <h3>Je suis Abdul Razak DRAME.</h3>
-                    <h6>Je suis Developpeur Data et IA, data Scientiste et data Analyste</h6>
+                    <h6>Je suis Developpeur Data et IA, Data Scientiste et Data Analyste</h6>
                 </Text>
             </SubBox>
             <SubBox>
