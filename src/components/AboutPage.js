@@ -77,7 +77,7 @@ const AboutPage = () => {
 Je suis aussi Data Analyste et Data Scientiste, je fais de l'analyste de donnée, je créé des models d'intelligence Artificielle et les integre dans les application web
 <br/> <br/>
 Je crois que tout est un Art quand on y met sa conscience. Vous pouvez me contacter via les liens sociaux. <br/>
-            <br /> Contact: +225 07 07 00 7560 <br/> Email: drazadk@gmail.com
+            <br /> Contact: +225 07 07 00 7560 <br/> Email: drazakd@gmail.com
         </Main>
 
         <BigTitle text="ABOUT" top="10%" left="5%" />
